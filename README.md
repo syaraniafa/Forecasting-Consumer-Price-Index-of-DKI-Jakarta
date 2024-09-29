@@ -11,11 +11,11 @@ The dataset used for this project was sourced from the **Central Bureau of Stati
 
 ## Predictive Models
 The following predictive models were implemented and evaluated in this project:
-    - Naïve Model
-    - Holt-Winters Exponential Smoothing
-    - Time Series Regression (TSR)
-    - Seasonal Autoregressive Integrated Moving Average (SARIMA)
-    - Neural Networks
+        - Naïve Model
+        - Holt-Winters Exponential Smoothing
+        - Time Series Regression (TSR)
+        - Seasonal Autoregressive Integrated Moving Average (SARIMA)
+        - Neural Networks
 
 ## Results
 The Neural Network model (with parameters p=3, P=1, size=10) outperformed the other models. It delivered the most accurate forecasts, as evidenced by the following evaluation metrics:
