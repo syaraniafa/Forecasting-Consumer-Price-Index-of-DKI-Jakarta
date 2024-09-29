@@ -19,9 +19,9 @@ The following predictive models were implemented and evaluated in this project:
 
 ## Results
 The Neural Network model (with parameters p=3, P=1, size=10) outperformed the other models. It delivered the most accurate forecasts, as evidenced by the following evaluation metrics:
-    - Mean Absolute Error (MAE): Lowest among all models
-    - Root Mean Squared Error (RMSE): Lowest among all models
-    - Mean Absolute Percentage Error (MAPE): Lowest among all models <br>
+        - Mean Absolute Error (MAE): Lowest among all models
+        - Root Mean Squared Error (RMSE): Lowest among all models
+        - Mean Absolute Percentage Error (MAPE): Lowest among all models <br>
 The Neural Network model successfully captured the seasonal patterns and trends present in the CPI data, making it highly reliable for predicting future CPI movements.
 
 ## Conclusion
