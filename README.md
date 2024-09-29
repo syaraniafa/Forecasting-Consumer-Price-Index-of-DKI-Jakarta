@@ -1,4 +1,4 @@
-# Forecasting the Monthly Consumer Price Index (CPI) - Time Series Analysis Project
+# Forecasting the Monthly Consumer Price Index (CPI) of DKI Jakarta - Time Series Analysis Project
 
 ## Overview
 This project focuses on forecasting the Consumer Price Index (CPI) for DKI Jakarta. The CPI is a crucial indicator for understanding inflation rates, cost of living adjustments, and the overall economic health of the region. Accurate CPI forecasts are essential for policymakers and stakeholders to maintain economic stability and develop effective strategies.
